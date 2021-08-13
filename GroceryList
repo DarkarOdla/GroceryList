@@ -20,3 +20,34 @@ GroceriesList.add("Cafe");
 System.out.println(GroceriesList);
   }
 }
+
+//
+
+package listfunctionality;
+
+import java.util.ArrayList;
+
+public class ListFunctionality {
+
+public static void main(String[] args) {
+
+  Scanner s = new Scanner(System.in);
+  ArrayList<String> Groeries = new ArrayList();
+
+Groceries.add("Jugos");
+Groceries.add("Frutas");
+Groceries.add("Cafe");
+
+System.out.println("What groceries do you need?");
+String input_Groceries =s.nextLine();
+Groceries.add(input_Groceries);
+
+System.out.println("Here are your groceries dickface");
+
+
+ for (int i = 0; 1 < Groceries.size(); i++)
+ {
+ System.out.println(Groceries.get(i)); 
+
+  }
+  

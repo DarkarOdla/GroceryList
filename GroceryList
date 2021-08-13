@@ -6,6 +6,13 @@ buy[] = "Jugos", "Frutas", "Cafe";
 
 //Bryans Test #1
 
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Array List {
+  static Scanner reader = new Scanner(System.in);
+  static ArrayList<Interger> array = new ArrayList<Interger>();
+
 ArrayList Groceries = new ArrayList();
 GroceriesList.add("Jugos");
 GroceriesList.add("Frutas");

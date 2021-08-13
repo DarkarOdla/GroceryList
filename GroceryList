@@ -5,9 +5,9 @@ String buy[];
 buy[] = "Jugos", "Frutas", "Cafe";
 
 //Bryans Test #1
- String [] Groceries = new String[3];
-  Groceries[0] = "Jugos";
-  Groceries[1] = "Frutas";
-  Groceries[2] = "Cafe";
-  System.out.println(Groceries[0]);
-  
+
+ArrayList Groceries = new ArrayList();
+GroceriesList.add("Jugos");
+GroceriesList.add("Frutas");
+GroceriesList.add("Cafe");
+System.out.println(GroceriesList);

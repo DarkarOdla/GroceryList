@@ -9,7 +9,7 @@ buy[] = "Jugos", "Frutas", "Cafe";
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Array List {
+public class ArrayList {
   static Scanner reader = new Scanner(System.in);
   static ArrayList<Interger> array = new ArrayList<Interger>();
 

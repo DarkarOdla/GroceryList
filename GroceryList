@@ -3,3 +3,9 @@
   #Variables (Jugos, Frutas, Cafe)
 String buy[];
 buy[] = "Jugos", "Frutas", "Cafe";
+ String [] Groceries = new String[3];
+  Groceries[0] = "Jugos";
+  Groceries[1] = "Frutas";
+  Groceries[2] = "Cafe";
+  System.out.println(Groceries[0]);
+  

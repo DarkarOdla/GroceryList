@@ -4,24 +4,7 @@
 String buy[];
 buy[] = "Jugos", "Frutas", "Cafe";
 
-//Bryans Test #1
-
-import java.util.ArrayList;
-import java.util.Scanner;
-
-public class ArrayList {
-  static Scanner reader = new Scanner(System.in);
-  static ArrayList<Interger> array = new ArrayList<Interger>();
-
-ArrayList Groceries = new ArrayList();
-GroceriesList.add("Jugos");
-GroceriesList.add("Frutas");
-GroceriesList.add("Cafe");
-System.out.println(GroceriesList);
-  }
-}
-
-//
+//Bryans Test #2
 
 package listfunctionality;
 

@@ -18,3 +18,5 @@ GroceriesList.add("Jugos");
 GroceriesList.add("Frutas");
 GroceriesList.add("Cafe");
 System.out.println(GroceriesList);
+  }
+}

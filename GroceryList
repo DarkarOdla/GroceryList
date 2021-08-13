@@ -3,6 +3,8 @@
   #Variables (Jugos, Frutas, Cafe)
 String buy[];
 buy[] = "Jugos", "Frutas", "Cafe";
+
+//Bryans Test #1
  String [] Groceries = new String[3];
   Groceries[0] = "Jugos";
   Groceries[1] = "Frutas";
